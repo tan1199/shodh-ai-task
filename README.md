@@ -1,7 +1,7 @@
 # shodh-ai-task
 
 ### Problem Statement 1: 
-The file "Sales_Dialogues_Dataset.md" contains approximately 110 dialogue sets that simulate conversations in a sales context. These dialogues demonstrate a deep understanding of the product or service being offered. They culminate in simulated sales scenarios, where the dialogue aims to lead the potential customer towards making a purchase.
+The file "Sales_Dialogues_Dataset.md" contains approximately 100 dialogue sets that simulate conversations in a sales context. These dialogues demonstrate a deep understanding of the product or service being offered. They culminate in simulated sales scenarios, where the dialogue aims to lead the potential customer towards making a purchase.
 
 ### Problem Statement 2: 
 Documentation for MNIST Classification Model (shodh_ai_mnist_classification.ipynb)
